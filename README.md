@@ -1,2 +1,3 @@
-#stepik_lesson_3.6
+# stepik_lesson_3.6
+
 Самообучение на степике
